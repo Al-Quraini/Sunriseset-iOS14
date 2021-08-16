@@ -3,6 +3,8 @@
 ## Demo
 [![Sunriseset Demo](https://j.gifs.com/Z88AA2.gif)](https://j.gifs.com/Z88AA2.gif)
 
+<img src="https://j.gifs.com/Z88AA2.gif" width="250" height="630">
+
 # Features
 * Show day information of any city
 * Display sunrise time, sunset time, and day length
