@@ -48,7 +48,7 @@ $ pod install
 3) Open the workspace in Xcode
 
 ```bash
-$ open "SwiftWeather.xcworkspace"
+$ open "Sunriseset-iOS14.xcworkspace"
 ```
 
  
