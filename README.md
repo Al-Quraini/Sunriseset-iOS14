@@ -1,9 +1,7 @@
 # Sunriseset-iOS14
 
 ## Demo
-[![Sunriseset Demo](https://j.gifs.com/Z88AA2.gif)](https://j.gifs.com/Z88AA2.gif)
-
-<img src="https://j.gifs.com/Z88AA2.gif" width="250" height="630">
+[![Sunriseset Demo](https://j.gifs.com/XQQy3o.gif)](https://j.gifs.com/Z88AA2.gif)
 
 # Features
 * Show day information of any city
